@@ -1,0 +1,74 @@
+.grad {
+    background-image: linear-gradient(to right, #BFB2F3,#96CAF7,#9CDCAA ,#E5E1AB,#F3C6A5,#F8A3A8);
+  }
+.checked {
+    color: #ffd800;
+  }
+.home {
+    background-color: black;
+    border-radius: 30px;   
+}
+.nav ul li a {
+    color: #000;
+    
+}
+.navcolor{
+    color: #000;
+  
+    font-weight: 500;
+}
+.h1{
+    color:white;
+    font-weight: 750;
+    text-align: start;
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-size: 75px;
+    margin-right: 50px;
+
+}
+.homep {
+    color: white;
+    margin-left: 50px;
+}
+.button{
+    border-radius: 28px;
+    color: white;
+    background-color:#ff6600;
+    border-color: white;
+    margin-left: 50px;
+    font-size: 15px;
+    padding: 14px 60px;
+    text-align: start;
+    justify-content: start;
+    margin-top: 20px;
+}
+.logo{
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.img-fluid{
+    border-radius: 30px;
+}
+.probutton{
+    border-radius: 28px;
+    border-color: #ff6600;
+}
+
+.icon{
+    color:#ff6600
+}
+.header{
+    color: #ff6600;
+    font-weight: 700;
+}
+.abp {
+    color: white;
+}
+.detailheader{
+    color: #ff6600;
+    font-weight: 700;
+    margin-top: 20px;
+}
